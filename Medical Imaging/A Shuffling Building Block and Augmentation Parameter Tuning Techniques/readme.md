@@ -4,4 +4,4 @@ The recent COVID-19 outbreak showed us the importance of faster disease diagnosi
 
 Paper Link: https://ieeexplore.ieee.org/document/10101552
 
-Dataset Link: https://drive.google.com/drive/folders/1lOniBjs92D9gXegd0TmmrRHq-jTH6r1J?usp=sharing
+Dataset Link: https://mega.nz/file/b0BmVKBA#hj-IeEsC-eRCmBwRxr5LgZetQSlrIKxlB1i3V4jCr9Q
