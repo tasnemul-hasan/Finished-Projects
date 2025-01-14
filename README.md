@@ -1,2 +1,2 @@
 # Projects
-Current Projects
+Finished projects
